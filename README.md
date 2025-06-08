@@ -10,6 +10,3 @@
 aditya-chv/aditya-chv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=msql/msql-server,clickhouse/clickhouse&type=Date)](https://www.star-history.com/#msql/msql-server&clickhouse/clickhouse&Date)
